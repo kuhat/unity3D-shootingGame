@@ -14,7 +14,9 @@
 ![image](https://github.com/kuhat/unity3D-shootingGame/assets/53931269/1458ebf1-0225-4868-8a99-5b8f192b87c0)
 
 <Center>Figure 2. “UnlimitedAmmoBase Variant” prefab</Center>
-+ Find “AmmoPlusBase” prefab, add tag “AmmoPlusBase” and layer “Base” to it as shown in the figure below: 
+
++ Find “AmmoPlusBase” prefab, add tag “AmmoPlusBase” and layer “Base” to it as shown in the figure below:
+  
 ![image](https://github.com/kuhat/unity3D-shootingGame/assets/53931269/d2e6cda8-3d20-4ad0-93c3-2d97fa9bd943)
 
 <Center>Figure 3. “AmmoPlusBase Variant” prefab</Center>
@@ -34,8 +36,10 @@ Find “Tomb” prefab, add tag “Base” and layer “Base” to it as shown i
 
 ![image](https://github.com/kuhat/unity3D-shootingGame/assets/53931269/92e37afc-bf60-4314-ac26-c158fc29503f)
 
-<Center>Figure 6. “PlayerController” prefab
-Go to folder Assets > Scenes > prefebs > PickUps, there are several pickup game objects that needs to be added with some tags.
+<Center>Figure 6. “PlayerController” prefab</Center>
+
+Go to folder `Assets > Scenes > prefebs > PickUps`, there are several pickup game objects that needs to be added with some tags.
+
 + Find “SM_BoxAmmo_003 variant” and “SM_BoxAmmo_003 variant 1” prefab, add tag “Ammo” to it as shown in the figure below: 
 
 ![image](https://github.com/kuhat/unity3D-shootingGame/assets/53931269/7de28000-d1ca-4ed3-92de-d1ed6da201d6)
@@ -43,7 +47,7 @@ Go to folder Assets > Scenes > prefebs > PickUps, there are several pickup game 
 
 
 <Center>Figure 7. “SM_BoxAmmo_003 variant” and “SM_BoxAmmo_003 variant 1” prefab</Center>
-+ Find “healthPickUp” and “healthPickUp1” prefabs, add “HealthPack” tag to both of them.
++ Find **“healthPickUp”** and **“healthPickUp1”** prefabs, add **“HealthPack”** tag to both of them.
 
 
 ![image](https://github.com/kuhat/unity3D-shootingGame/assets/53931269/14494e04-854d-456e-963b-5cc66f4790f7)
@@ -51,7 +55,7 @@ Go to folder Assets > Scenes > prefebs > PickUps, there are several pickup game 
 
 <Center>Figure 8. “healthPickUp” and “healthPickUp1” prefab</Center>
 
-+ Go to Assets > Scenes > prefebs > MainScene, find “InitialBase1”, “InitialBase2”, “InitialBase3”, “InitialBase4” under Bases object, add tag “InitialBase” and layer “Base” to them.
++ Go to `Assets > Scenes > prefebs > MainScene`, find **“InitialBase1”, “InitialBase2”, “InitialBase3”, “InitialBase4”** under **Bases object**, add tag **“InitialBase”** and layer **“Base”** to them.
 
 
 
