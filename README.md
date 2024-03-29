@@ -46,7 +46,8 @@ Go to folder `Assets > Scenes > prefebs > PickUps`, there are several pickup gam
 
 
 
-<Center>Figure 7. “SM_BoxAmmo_003 variant” and “SM_BoxAmmo_003 variant 1” prefab</Center>
+<Center>Figure 7 “SM_BoxAmmo_003 variant” and “SM_BoxAmmo_003 variant 1” prefab</Center>
+
 + Find **“healthPickUp”** and **“healthPickUp1”** prefabs, add **“HealthPack”** tag to both of them.
 
 
