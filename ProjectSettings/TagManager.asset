@@ -1,0 +1,58 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Base
+  - Enemy
+  - SpeedUpBase
+  - AmmoBase
+  - DangerousArea
+  - InitialBase
+  - UnHealthyEffect
+  - AmmoPlusBase
+  - Bullet
+  - BulletPlus
+  - MenuCamera
+  - BaseGenPlane
+  - BonusGenPlane
+  - Ammo
+  - HealthPack
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Environment
+  - Water
+  - UI
+  - Base
+  - Player
+  - Zombie
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
